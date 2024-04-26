@@ -8,4 +8,4 @@ This is a Python application for performing Scale-Invariant Feature Transform (S
    git clone https://github.com/<username>/<repository>.git
 2. Install dependencies:
    pip install PyQt5 opencv-python numpy
-    
+    bash
