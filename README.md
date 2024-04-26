@@ -25,10 +25,10 @@ python ui.py
 
 ### SIFT Processor Result
 
-![SIFT Processor Result](box.png)
+![Result Image](SC/box.png)
 
 #### Description
 
-In the example result shown above, keypoints detected by the SIFT algorithm , and their descriptors are visualized using lines . This visualization helps users understand the distribution and characteristics of the detected features in the image.
+In the image result shown above, keypoints detected by the SIFT algorithm , and their descriptors are visualized using lines . This visualization helps users understand the distribution and characteristics of the detected features in the image.
 
 
